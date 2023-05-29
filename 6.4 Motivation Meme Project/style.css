@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+img{
+    border: 4px white solid;
+    margin-top: 70px;
+    margin-left: 400px;
+}
+
+h1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    
+}
+
+.sec{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.third{
+    color: white;
+    text-align: center;
+    
+}
+
+p{
+    font-weight: 800px;
+}
